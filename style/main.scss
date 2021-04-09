@@ -82,25 +82,25 @@ body {
   &--superviser {
     grid-column: 1 / 2;
     grid-row: 2 / 4;
-    border-top: 5px solid $clr-cyan;
+    border-top: 3px solid $clr-cyan;
     background: url(../images/icon-supervisor.svg);
   }
   &--team {
     grid-column: 2 / 3;
     grid-row: 1 / 3;
-    border-top: 5px solid $clr-red;
+    border-top: 3px solid $clr-red;
     background: url(../images/icon-team-builder.svg);
   }
   &--karma {
     grid-column: 2 / 3;
     grid-row: 3 / 5;
-    border-top: 5px solid $clr-orange;
+    border-top: 3px solid $clr-orange;
     background: url(../images/icon-karma.svg);
   }
   &--calculator {
     grid-column: 3 / 4;
     grid-row: 2 / 4;
-    border-top: 5px solid $clr-blue;
+    border-top: 3px solid $clr-blue;
     background: url(../images/icon-calculator.svg);
   }
 
