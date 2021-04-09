@@ -14,7 +14,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ## Overview
 
-This is the second thing i built with CSS grid on here. this was fraustrating at first, but once i figured out how to do the layout, it was fun. i wanted to add some hover animations, but then i decided not to.
+This is the second thing i built with CSS grid on here. this was frustrating at first, but once i figured out how to do the layout, it was fun. i wanted to add some hover animation, but then i decided not to.
 
 ### The challenge
 
@@ -32,7 +32,7 @@ Your users should:
 
 ### Links
 
-- Solution URL: [On Frontend Mentor](https://www.frontendmentor.io/solutions/huddle-landing-page-with-single-introductory-section-html-and-scss-SeQI5kdHw)
+- Solution URL: [On Frontend Mentor](https://www.frontendmentor.io/solutions/fourcardfeaturesection-with-html-scss-grid-pctabletmobile-mIaXlnqYK)
 - Live Site URL: [Live Demo](https://captkraken.github.io/four-card-feature-section)
 
 ## My process
