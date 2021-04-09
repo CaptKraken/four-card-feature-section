@@ -68,6 +68,7 @@ body {
 .card__heading {
   margin-bottom: 1rem;
   color: #4c4e61;
+  font-size: 1.3rem;
 }
 
 .card__text {
